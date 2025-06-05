@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDBQEmOTdmlwd8SIw1TWyBN8d0XzqCCpOg")
+genai.configure(api_key="") ## add you api key
 
 chat = genai.GenerativeModel("gemini-1.5-flash").start_chat(history=[])
 
