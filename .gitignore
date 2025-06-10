@@ -12,7 +12,12 @@ __pycache__/
 Bert_Model
 intent_model.pkl 
 intent__model.pkl
-
+nlu_extra.yml
+nlu_extra_small.yml
+results/
+bert_intent_model
+intend.py
+intent_mapping.json
 #### YOU CAN GENERATE THIS .GITIGNORE FILE FROM TOPAL. WHERE YOU HAVE TO SPECIFY THE LANGUAGE 
 ### AND IT WILL AUTOMATICALLY GENERATE THE FILE. REST FOLDERS AND FILES YOU CAN ADD IT BY YOU OWN DEPENDING ON THE PORJECT 
 
